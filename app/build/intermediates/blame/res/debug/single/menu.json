@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\days_menu.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\menu\\days_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_stocks.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\menu\\my_stocks.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\menu\\global.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.7\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.7\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.7\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_selector_dark.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-v21\\touch_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    }
+]

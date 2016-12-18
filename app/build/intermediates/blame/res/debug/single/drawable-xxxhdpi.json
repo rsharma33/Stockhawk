@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_white_24dp.png",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_info_black_24dp.png",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_attach_money_white_24dp.png",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_attach_money_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_sync_black_24dp.png",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
+    }
+]

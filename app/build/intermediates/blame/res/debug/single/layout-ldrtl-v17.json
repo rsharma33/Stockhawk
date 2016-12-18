@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\activity_my_stocks.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\layout-ldrtl\\activity_my_stocks.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.7\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.7\\res\\layout-ldrtl-v17\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\list_item_quote.xml",
+        "source": "C:\\Users\\rajesh sharma\\AndroidStudioProjects\\Stocks-App\\app\\src\\main\\res\\layout-ldrtl\\list_item_quote.xml"
+    }
+]
